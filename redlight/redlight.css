@@ -13,7 +13,7 @@
  */
  
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Enriqueta:400,700);
-@import url(font/redlight-icons.css);
+@import url(icons/redlight-icons.css);
 
 /*------------------------------------------/
 	Reset
@@ -145,27 +145,6 @@ header #navmnu a:hover {
 	text-decoration: none;
 	}
 
-#iconmnu {
-	display: block;
-	}
-#iconmnu li {
-	list-style: none;
-	display: inline-block;
-	}
-#iconmnu a {
-	display: block;
-	border: none;
-	font-size: 18px;
-	margin-right: 5px;
-	transition: all .3s;
-	-webkit-transition: all .3s;
-	-moz-transition: all .3s;
-	-o-transition: all .3s;
-	}
-#iconmnu a:hover {
-	text-decoration: none;
-	}
-
 header h1 {
 	font-size: 40px;
 	text-align: center;
@@ -215,12 +194,26 @@ section img {
 	border-radius: 5px;
 }
 
-/*aside { 										display: none;
-	width: 250px;
-	floatkl: right;
-	border-bottom: solid 3px #CC0000;
-	padding-bottom: 25px;
-}*/
+#iconmnu {
+	display: block;
+	}
+#iconmnu li {
+	list-style: none;
+	display: inline-block;
+	}
+#iconmnu a {
+	display: block;
+	border: none;
+	font-size: 18px;
+	margin-right: 5px;
+	transition: all .3s;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-o-transition: all .3s;
+	}
+#iconmnu a:hover {
+	text-decoration: none;
+	}
 
 aside h2 {
 	border-top: solid 3px #CC0000;
