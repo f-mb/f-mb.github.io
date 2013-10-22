@@ -22,7 +22,7 @@ $(document).ready(function() {
 jQuery.fn.anchorAnimate = function(settings) {
 
  	settings = jQuery.extend({
-		speed : 250
+		speed : 750
 	}, settings);	
 	
 	return this.each(function(){
