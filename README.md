@@ -16,7 +16,9 @@ RedLight is a responsive HTML5, CSS3, JS theme.
 
 ***
 
-####CREATE PAGE
+### Help
+
+####Create Page
 
 
 To create your page, you can use "template-index.html" template.
@@ -29,7 +31,7 @@ The following icons are included in RedLight:
 
 You can subdivise sections using h2, h3 and h4 headings. 
 
-####CUSTOMIZE LAYOUT
+####Customize Layout
 
 By default, RedLight layout use a grey-based layout.
 You can customize it using the "template-customize.css" template.
@@ -40,7 +42,7 @@ Rename the file "customize.css", and it will be automatically charged by Redligh
 
 **Warning:** Do not delete "!important" mentions.
 
-####FILE ARCHITECTURE
+####File Architecture
 
 The newly created files should be upload at your main web folder (as any other file, like pictures, pgp keys etc.); while Redlight library should be upload in a subfolder named "redlight".
 
@@ -57,6 +59,6 @@ Like:
 
 ***
 
-#####Website using RedLight
+####Website using RedLight
 
 http://f-mb.org
