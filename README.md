@@ -6,14 +6,20 @@ Personal Website
 RedLight
 ========
 
-Current version: 0.2 (2013 - 10- 26)
+
+**Current version:** 0.2 (2013-10-26)
+
+**Licence:** CC-BY-NC-SA
+
+RedLight is a responsive HTML5, CSS3, JS theme.
+
 
 ***
 
 ####CREATE PAGE
 
 
-To create your page, you can start from scratch or use "template-index.html" template.
+To create your page, you can use "template-index.html" template.
 
 *Don't forget, to rename the file "index.html".*
 
@@ -32,7 +38,7 @@ Rename the file "customize.css", and it will be automatically charged by Redligh
 
 *Recommandation:* Use only one different color, called "On Color" in "template-customize.css".
 
-*Warning:* Do not delete "!important" mentions.
+**Warning:** Do not delete "!important" mentions.
 
 ####FILE ARCHITECTURE
 
@@ -44,8 +50,13 @@ Like:
 	|	customize.css (optional)
 	|	picture.jpg (optional)
 	|	redlight/
-	|		relight.css
-	|		relight.js
+	|		redlight.css
+	|		redlight.js
 	|		template-index.html
-	|		tempalte-customize.css
+	|		template-customize.css
 
+***
+
+#####Website using RedLight
+
+http://f-mb.org
