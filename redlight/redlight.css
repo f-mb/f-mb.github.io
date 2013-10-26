@@ -1,14 +1,13 @@
 @charset "UTF-8";
 
 /**
- * global.css
- * Global stylesheet
- * Paramètres globaux
+ * redlight.css
+ * RedLight Responsive Layout
  *
  * @package	RedLight
  * @subpackage	Theme
  * @since	0.1
- * @version	0.1, 2013-10-12
+ * @version	0.2, 2013-10-26
  * @author	Florian Martin-Bariteau
  */
  
@@ -383,4 +382,7 @@ footer p.powered {
 	section {
 		padding-left: 12px; padding-right: 12px;
 		}
+	section .headline {
+		font-size: 150%;
+	}
 }
