@@ -21,6 +21,8 @@ The following icons are included in RedLight:
 
 <img src="icons/icons.jpg"/>
 
+You can subdivise sections using h2, h3 and h4 headings. 
+
 ####CUSTOMIZE LAYOUT
 
 By default, RedLight layout use a grey-based layout.
