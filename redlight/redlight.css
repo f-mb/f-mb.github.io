@@ -4,11 +4,11 @@
  * redlight.css
  * RedLight Responsive Layout
  *
- * @package	RedLight
+ * @package		RedLight
  * @subpackage	Theme
- * @since	0.1
- * @version	0.2, 2013-10-26
- * @author	Florian Martin-Bariteau
+ * @since		0.1
+ * @version		0.2, 2013-10-26
+ * @author		Florian Martin-Bariteau
  */
  
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Enriqueta:400,700);
@@ -234,13 +234,13 @@ section article .authors {
 section article .position {
 	font-style: italic;
 	}
-section article summary {
+section article .summary {
 	color: #333;
 	margin-left: 50px;
 	font-size: 95%;
 	margin-top: 10px;
 	}
-section article summary p {
+section article .summary p {
 	margin-bottom: 5px;
 	}
 section .label {
@@ -340,7 +340,7 @@ footer p.powered {
 		margin: 0;
 		left: 0;
 		min-width: 750px;
-    		}
+    	}
 	footer p {
 		width: 100%;
 		min-width: 750px;
@@ -363,7 +363,7 @@ footer p.powered {
 		bottom: 5px;
 		}
 	header #navmnu li a {
-    		font-size: 50%;
+    	font-size: 50%;
 		}
 	header #navmnu li a i {
     	font-size: 30px;
@@ -377,12 +377,12 @@ footer p.powered {
 		padding-top: 80px !important;
 		}
 	h1 i {
-    		margin: 0;
+    	margin: 0;
 		}
 	section {
 		padding-left: 12px; padding-right: 12px;
 		}
 	section .headline {
 		font-size: 200%;
-	}
+		}
 }
