@@ -83,38 +83,30 @@ a:hover {
 /-----------------------------------------*/
 
 header {
-    height: 225px;
+	height: 225px;
     }
 
 header a {
 	border-bottom: none !important;
-}
+	}
 
 header #headbg {
 	position:fixed;
-    top:0px;
-	height: 190px;
+	top:0px;
+	height: 200px;
 	width: 100%;
-    background-color: #C00;
-    opacity: 0.9;
-}
+	background-color: #C00;
+	opacity: 0.9;
+	}
 
 header #head {
 	position:fixed;
-    top:0px;
-    height: 200px;
-    width: 1000px;
-    left: 50%;
-    margin-left: -500px;
-}
-
-header ndav {
-	position: absolute;
-	display: block;
-	bottom: 10px;
-	border: 1px solid green;
-	width: 100%;
-}
+	top:0px;
+	height: 200px;
+	width: 1000px;
+	left: 50%;
+	margin-left: -500px;
+	}
 
 header #navmnu {
 	position: absolute;
@@ -126,7 +118,6 @@ header #navmnu li {
 	list-style: none;
 	display: table-cell;
 	font-size: 15px;
-	margin-rightd: 10px; 
 	text-align: center;
 	}
 header #navmnu li a i {
@@ -146,7 +137,8 @@ header #navmnu a:hover {
 header h1 {
 	font-size: 40px;
 	text-align: center;
-	margin-top: 50px !important; margin-bottom: 0px;
+	margin-top: 50px !important;
+	margin-bottom: 0px;
 	color: #FFF;
 	}
 header h2 {
@@ -155,7 +147,7 @@ header h2 {
 	text-align: center;
 	margin: 0px;
 	color: #FFF;
-}
+	}
 
 
 /*------------------------------------------/
@@ -167,30 +159,33 @@ section {
 	margin-bottom: 25px;
 	padding-top: 225px;
 	margin-top: -225px;
-	margin-left: auto; margin-right: auto;
-}
+	margin-left: auto;
+	margin-right: auto;
+	}
 
 section:first-of-type {
 	padding-top: 275px;
-}
+	}
 
 section nav {
-	bottom: 0; text-align: center; margin-top: 25px;
-}
+	bottom: 0;
+	text-align: center;
+	margin-top: 25px;
+	}
 section nav a {
 	display: block;
 	border-bottom: none;
-}
+	}
 section nav a i {
 	font-size: 150%;
-}
+	}
 
 section img {
 	margin-bottom: 25px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-}
+	}
 
 #iconmnu {
 	display: block;
@@ -213,56 +208,42 @@ section img {
 	text-decoration: none;
 	}
 
-aside h2 {
-	border-top: solid 3px #CC0000;
-}
-
-aside article {
-	margin-bottom: 10px;
-}
-
 section p {
 	margin-bottom: 10px;
 	text-align: justify;
-}
+	}
 
 section .headline {
 	font-size: 150%;
 	font-weight: 300;
 	text-align: justify;
-}
+	}
 
 section article {
 	margin-bottom: 25px;
-}
+	}
 section article .aside {
 	float: right;
 	text-align: right;
-}
+	}
 section article .location {
 	font-size: 80%;
-}
+	}
 section article .authors {
 	font-size: 90%;
-}
-section article .program strong {
-	color__: #C00;
-}
-section article .title {
-	color__: #C00;
-}
+	}
 section article .position {
 	font-style: italic;
-}
+	}
 section article summary {
 	color: #333;
 	margin-left: 50px;
 	font-size: 95%;
 	margin-top: 10px;
-}
+	}
 section article summary p {
 	margin-bottom: 5px;
-}
+	}
 section .label {
 	background-color: #ccc;
 	color: #FFF;
@@ -271,20 +252,20 @@ section .label {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-}
+	}
 section a.label {
 	border: none;
-}
+	}
 section .label.colored {
 	border: solid 1px #C00;
 	color: #C00;
 	background-color: #FFF;
 	font-weight: 300;
-}
+	}
 section a.label:hover {
 	color: #FFF;
 	background-color: #C00;
-}
+	}
 
 /*------------------------------------------/
 	Headings
@@ -320,7 +301,7 @@ h4 {
 h1 i {
 	margin-left: -50px;
 	color: #C00;
-}
+	}
 
 /*------------------------------------------/
 	Footer
@@ -335,40 +316,41 @@ footer {
 	color: #666;
 	text-align: center;
 	width: 100%;
+	min-width: 750px;
 	}
 
 footer p {
 	width: 1000px;
 	margin: 0px auto;
-}
+	}
 footer p.powered {
 	font-size: 90%;
 	margin-top: 10px;
-}
+	}
 
 /*------------------------------------------/
 	Responsive
 /-----------------------------------------*/
 
 @media screen and (max-width:999px) {
-    header #navmnu li a i {
-    	display: block;
-    }
-    header #head {
-    	width: 100%;
-    	margin: 0;
-    	left: 0;
-    	min-width: 750px;
-    }
-    footer p {
-    	width: 100%;
-    	min-width: 750px;
-    	margin: 0;
-    }
+	header #navmnu li a i {
+		display: block;
+		}
+	header #head {
+		width: 100%;
+		margin: 0;
+		left: 0;
+		min-width: 750px;
+    		}
+	footer p {
+		width: 100%;
+		min-width: 750px;
+		margin: 0;
+		}
 }
 
 @media screen and (max-width:750px) {
-    header #headbg {
+	header #headbg {
 		height: 125px;
 		}
 	header #head {
@@ -382,12 +364,12 @@ footer p.powered {
 		bottom: 5px;
 		}
 	header #navmnu li a {
-    	font-size: 50%;
-  	  }
-    header #navmnu li a i {
+    		font-size: 50%;
+		}
+	header #navmnu li a i {
     	font-size: 30px;
     	margin-bottom: -5px;
-	    }
+		}
 	section {
 		padding-top: 150px !important;
 		margin-top: -150px !important;
@@ -395,11 +377,10 @@ footer p.powered {
 	section:first-of-type {
 		padding-top: 80px !important;
 		}
-    h1 i {
-    	margin: 0;
-  	  }
-    section {
-    	padding-left: 12px; padding-right: 12px;
- 	   }
-
+	h1 i {
+    		margin: 0;
+		}
+	section {
+		padding-left: 12px; padding-right: 12px;
+		}
 }
