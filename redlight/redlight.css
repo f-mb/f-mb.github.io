@@ -346,3 +346,39 @@ footer p.powered {
 	font-size: 90%;
 	margin-top: 10px;
 }
+
+/*------------------------------------------/
+	Responsive
+/-----------------------------------------*/
+
+@media screen and (max-width:999px) {
+    body {
+        background-color: green;
+    }
+    header #navmnu li a i {
+    	display: block;
+    }
+    header #head {
+    	width: 100%;
+    	margin: 0;
+    	left: 0;
+    	min-width: 750px;
+    }
+    footer p {
+    	width: 100%;
+    	min-width: 750px;
+    	margin: 0;
+    }
+}
+
+@media screen and (max-width:750px) {
+    body {
+        background-color: blue;
+    }
+    h1 i {
+    	margin: 0;
+    }
+    section {
+    	padding-left: 12px; padding-right: 12px;
+    }
+}
