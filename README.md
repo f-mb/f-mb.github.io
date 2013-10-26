@@ -3,10 +3,15 @@ RedLight
 
 RedLight is a responsive theme using HTML5, CSS3, JS.
 
-
 **Current version:** 0.2 (2013-10-26)
 
-**Licence:** CC-BY-NC-SA
+###### LICENCE
+
+This theme is freely available under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">Creative Commons BY-NC-SA Licence</a>.
+
+JQuery and icons might have different licences, check them.
+
+If you add some options, feel free to pull request to the RedLight main repo! (please do so!)
 
 
 ***
@@ -59,11 +64,6 @@ To do so, create a "customize.css" file (use code in "template-customize.css"; d
 No other action needed. The "customize.css" will be automatically load by RedLight.
 
 *Recommandation:* Use only one different color, called "On Color" in "template-customize.css".
-
-
-#### File Architecture
-
-The newly created files should be upload at your main web folder (as any other file, like pictures, pgp keys etc.); while Redlight library should be upload in a subfolder named "redlight".
 
 
 
