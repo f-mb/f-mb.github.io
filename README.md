@@ -1,8 +1,7 @@
 RedLight
 ========
 
-RedLight is a responsive HTML5, CSS3, JS theme.
-
+RedLight is a responsive theme using HTML5, CSS3, JS.
 
 
 **Current version:** 0.2 (2013-10-26)
@@ -18,7 +17,7 @@ RedLight is a responsive HTML5, CSS3, JS theme.
 
 ###### GITHUB PAGES
 
-Fork this repository, rename it as "*your-username*.github.io". Updates will then be easier.
+Fork this repository, rename it to "*your-username*.github.io" (or like you want).
 
 If you have a personal domain, add a <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages" target="_blank">CNAME file</a>.
 
