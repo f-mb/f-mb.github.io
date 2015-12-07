@@ -23,7 +23,7 @@ permalink: /about/
 	I still use these skills to spread researches into legal and non-legal world (with OpenUM); and also for ‘side’ projects. But it certainly gives me a different point of view on legal issues regarding IT!</p>
 	
 	
-	<p>I hold a <em>Licence</em> and a <em>Maitrise</em> in Business Law, and a Master in Intellectual Property and Information Technology Law from University of Aix-Marseille. I also hold a Certificate in Criminal Law, Criminology and Forensic Sciences and a Certificate in Legal and Moral Sciences. In Winter 2013, I was a Graduate Visiting Student in Intellectual Property at McGill University.
+	<p>I hold a <em>Licence</em> and a <em>Maitrise</em> in Business Law, and a Master in Intellectual Property and Information Technology Law from Université d'Aix-Marseille (France). I also hold a Certificate in Criminal Law, Criminology and Forensic Sciences and a Certificate in Legal and Moral Sciences. In Winter 2013, I was a Graduate Visiting Student in Intellectual Property at McGill University.
 	</p>
 	
 				<p><strong>My other life</strong></p>
