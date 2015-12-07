@@ -1,0 +1,28 @@
+title: Florian Martin-Bariteau
+description: LL.D. candidate and Lecturer, Université de Montréal. Global Internet Policy Fellow, Instituto de Tecnologia e Sociedade do Rio.
+
+url: http://f-mb.org/
+baseurl: "/fmborgdev"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: About
+   url: /about/
+ - title: Writings
+   url: /writings/
+ - title: Talks
+   url: /talks/
+ - title: Contact
+   url: /contact/
+
+social:
+   twitter: f_mb
+   email: fmb@openum.ca
+
+google_analytics: "UA-10030663-7"

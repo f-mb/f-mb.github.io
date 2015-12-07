@@ -1,74 +1,49 @@
-RedLight
-========
+![preview Long Haul](/preview.jpg)
 
-RedLight is a responsive theme using HTML5, CSS3, JS.
+Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
 
-**Current version:** 0.2 (2013-10-26)
+If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
 
-###### LICENCE
+####[View Demo](http://brianmaierjr.com/long-haul)
 
-This theme is freely available under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">Creative Commons BY-NC-SA Licence</a>.
+## Features
 
-JQuery and icons might have different licences, check them.
+- Minimal, Type Focused Design
+- Built with SASS + COMPASS
+- Layout with SUSY Grid
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
 
-If you add some options, feel free to pull request to the RedLight main repo! (please do so!)
+## Setup
 
+1. [Install Jekyll](http://jekyllrb.com)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3. Clone it
+4. Install susy `gem install susy` 
+5. Install normalize `gem install normalize-scss`
+6. Run Jekyll `jekyll serve -w`
+7. Run `compass watch`
+8. Customize!
 
-***
+## Site Settings
 
-## Help
+The main settings can be found inside the `_config.yml` file:
 
-#### Installation
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
-###### GITHUB PAGES
+## License
 
-Fork this repository, rename it to "*your-username*.github.io" (or like you want).
-
-If you have a personal domain, add a <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-pages" target="_blank">CNAME file</a>.
-
-###### SELF-HOSTED
-
-You can <a href="#">download RedLight</a>.
-
-###### FILE ARCHITECTURE
-
-Do not change file architecture:
-
-	|	index.html
-	|	customize.css (optional)
-	|	picture.jpg (optional)
-	|	redlight/
-	|		redlight.css
-	|		redlight.js
-	|	template-index.html
-	|	template-customize.css
-
-
-
-#### Create Page
-
-Create a "index.html" file (use code in "tpl-index.html").
-
-You can subdivise sections using h2, h3 and h4 headings. 
-
-For new menus, sections or social links, the following icons are included in RedLight:
-
-<img src="redlight/icons/icons.png"/>
-
-#### Customize Layout
-
-By default, RedLight use a grey-based layout; but you can customize it.
-
-To do so, create a "customize.css" file (use code in "tpl-customize.css"; uncomment parts you want to customize; do not delete "!important" mentions!).
-
-No other action needed. The "customize.css" will be automatically load by RedLight.
-
-*Recommandation:* Use only one different color, called "On Color" in "tpl-customize.css".
-
-
-
-***
-
-## Websites using RedLight
-
-http://f-mb.org
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
