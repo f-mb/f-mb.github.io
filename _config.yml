@@ -2,7 +2,7 @@ title: Florian Martin-Bariteau
 description: LL.D. candidate and Lecturer, Université de Montréal. Global Internet Policy Fellow, Instituto de Tecnologia e Sociedade do Rio.
 
 url: http://f-mb.org/
-baseurl: "/fmborgdev"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
