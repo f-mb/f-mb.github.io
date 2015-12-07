@@ -9,6 +9,8 @@ permalink: /about/
 	
 	<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}" alt=""> 
 
+	<h4>I am a legal scholar, a technologist and a creative.</h4>
+
 	<p>I am currently a LL.D. (Doctor of Laws) candidate in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>.
 	 My dissertation working title is "Rethinking Trademarks: A Functional Approach and Comparative Law Essay in a Global and Digital World."
 	
@@ -25,7 +27,7 @@ permalink: /about/
 	</p>
 	
 				<p><strong>My other life</strong></p>
-				<p>In a nutshell, I'm a lover of freedom and the Internet, who decided to enroll in Law instead of IT and communication, ‘learning’ that by myself.</p>
+				<p>In a nutshell, I'm a lover of technology, media, communications and advertising, who decided to enroll in Law instead of IT or communication, ‘learning’ that by myself.</p>
 				<p>I started coding in the 1990's, on a GridLite-like "laptop" running MsDos... In late 1990's, I learned programming with Visual Studio, and HTML. Over the years, I focused on web-apps and websites working with ASP, PHP, MySQL, HTML, XML, CSS, XLS and JavaScript. Today, I mostly code for themes, frameworks and plugins running on a WordPress core. I also contribute to translate some website content or improve open-source apps I use.</p>
 				<p>Since 1998, I have designed web site, communication supports, campaigns, identities and managed public relations. Mostly for non-for-profit organizations, but my references also include educational organizations, law firms, museums and small corporations. Most of my work has been released under the signature <a href="http://ilix.net">ILIX</a>. Some of my works has been featured on local and national press, radio and tv.</p>
 				<p>
