@@ -271,7 +271,7 @@ z-index: 1;
 .posts li .date{color:gray;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-weight:300;font-size:.8em}
 .posts li h3{margin:0 0 .5em}
 @media only screen and (min-width: 800px){.content{padding-top:0;position:relative;z-index:1}
-.content:after{z-index:-1;background:white;content:"";display:block;width:100%;height:5em;position:absolute;top:-2em;left:0;-webkit-transform:skewY(-2deg);-ms-transform:skewY(-2deg);transform:skewY(-2deg);-webkit-transform-origin:bottom left;-ms-transform-origin:bottom left;transform-origin:bottom left}
+.content:after{z-index:-1;background:white;content:"";display:block;width:100%;height:10em;position:absolute;top:-2em;left:0;-webkit-transform:skewY(-2deg);-ms-transform:skewY(-2deg);transform:skewY(-2deg);-webkit-transform-origin:bottom left;-ms-transform-origin:bottom left;transform-origin:bottom left}
 .container{max-width:800px;margin-left:auto;margin-right:auto;padding:0}
 .container:after{content:" ";display:block;clear:both}
 #home .posts,#home .pageTitle,#home .pagination{width:74.46809%;float:left;margin-right:2.12766%;float:none;margin:0 auto 1.5em}
