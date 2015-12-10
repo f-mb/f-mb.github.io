@@ -26,6 +26,8 @@ permalink: /about/
 	<p>I hold a <em>Licence</em> and a <em>Maitrise</em> in Business Law, and a Master in Intellectual Property and Information Technology Law from Université d'Aix-Marseille (France). I also hold a Certificate in Criminal Law, Criminology and Forensic Sciences and a Certificate in Legal and Moral Sciences. In Winter 2013, I was a Graduate Visiting Student in Intellectual Property at McGill University.
 	</p>
 	
+	<p>Over the past decade, I have held several positions as Chair or board member of various non-profit organizations, in Canada and in France. I also served as Vice-President for Student Affaires of Université Paul-Cézanne Aix-Marseille III from 2008 to 2011. From 2011 to 2012, I have been a junior lecturer at the Faculty of Law and Politics of Université d’Aix-Marseille.</p>
+	
 				<p><strong>My other life</strong></p>
 				<p>In a nutshell, I'm a lover of technology, media, communications and advertising, who decided to enroll in Law instead of IT or communication, ‘learning’ that by myself.</p>
 				<p>I started coding in the 1990's, on a GridLite-like "laptop" running MsDos... In late 1990's, I learned programming with Visual Studio, and HTML. Over the years, I focused on web-apps and websites working with ASP, PHP, MySQL, HTML, XML, CSS, XLS and JavaScript. Today, I mostly code for themes, frameworks and plugins running on a WordPress core. I also contribute to translate some website content or improve open-source apps I use.</p>
