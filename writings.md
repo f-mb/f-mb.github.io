@@ -13,7 +13,7 @@ permalink: /writings/
 			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… (looseleaf, annual update).
 			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
 			
-			<h4><span style="text-decoration: underline;">Refeered</span> Journal Articles and Book Chapters</h4>
+			<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2014)”">Cinq décisions d'intérêt en matières de nom de domaine (2014)</span>,” 
 			(2015) 27 <em>Cahiers de propriété intellectuelle</em> 735.</p>

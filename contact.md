@@ -17,9 +17,11 @@ permalink: /contact/
   
   <div class="colx2">
   
-  <p><strong>E-mail</strong> <br/><a href="mailto:f.martin-bariteau%40umontreal.ca">f.martin-bariteau <!--SPAM-->@<!--SPAM-->umontreal.ca</a> <br/>or <a href="mailto:fmb%40openum.ca">fmb <!--SPAM-->@<!--SPAM-->openum.ca</a></p>
+  <p><strong>E-mail</strong> <br/><a href="mailto:f.martin-bariteau%40umontreal.ca">f.martin-bariteau <!--SPAM-->@<!--SPAM--> umontreal.ca</a> <br/>or <a href="mailto:fmb%40openum.ca">fmb <!--SPAM-->@<!--SPAM--> openum.ca</a></p>
 			
-	
+	<p>
+  	<strong>Phone</strong>
+  	<br/>+1 514 343 7670</p>
 			
   	<p>
   	<strong>Postal Address</strong>
