@@ -9,17 +9,17 @@ permalink: /talks/
 	
 	<h4>Upcoming</h4>
 	
-	<p>“Les droits de marque comme action en responsabilité,” Annual Workshop, G3 Propriété intellectuelle et responsabilité civile, Université Libre de Bruxelles, April 14<sup>th</sup> 2016.</p>
+	<p>“La concurrence déloyale en common law canadienne et droit civil québécois,” Annual Workshop, G3 Propriété intellectuelle et responsabilité civile, Université Libre de Bruxelles, April 14<sup>th</sup> 2016.</p>
 		
 	<h4>Conferences</h4>
 	
 	<p>“<span data-translation="Translation: “Recent Development Regarding Domain Names”">Développements récents en matière de noms de domaine</span>,” Développement récents en propriété intellectuelle, Barreau du Québec, Montréal, Canada, 13 November 2015.</p>
 	
-	<p>“.bit, Blockchain & Lex Cryptographia”, Regroupement Droit, changements et gouvernance’s Annual Symposiums, Université de Montréal, 6 November 2015.</p>
+	<p>“.bit, Blockchain & Lex Cryptographia”, Regroupement Droit, changements et gouvernance’s Annual Symposiums, Université de Montréal, 6 November 2015. <a href="https://youtu.be/cUMscyPmCdU?t=17m10s" target="_blank" class="link-label">Video</a></p>
 	
 	<p>“<span data-translation="Translation: “Civil Law Taxonomies and Intellectual Rights”">Classifications civilistes et droits intellectuels</span>,” New Scholars Lecture Series, Jean-Louis Beaudoin Chair in civil law, Faculty of Law, Université de Montréal, Canada, 14 October 2015 (Competitive selection.)</p>
 	
-	<p>“Technologies for Democracy: Public Participation and Access to Law,” Varanda ITS do Fellows “Hacking Policy na Era Digital : leis, desastres e guerras,” Instituto do Tecnologia e Sociedade do Rio de Janeiro, Brazil, 23 July 2015.</p>
+	<p>“Technologies for Democracy: Public Participation and Access to Law,” Varanda ITS do Fellows “Hacking Policy na Era Digital : leis, desastres e guerras,” Instituto do Tecnologia e Sociedade do Rio de Janeiro, Brazil, 23 July 2015. <a href="#" target="_blank" class="link-label">Video</a></p>
 	
 	<p>“Une pratique pédagogique engagée et innovante au troisième cycle : le vaste projet éditorial des Chantiers et ses stages de rédaction en chef,” with Violaine Lemay, Conference 10 “L’innovation pédagogique, une des solutions aux défis de l’université d’aujourd'hui?,” 82th ACFAS Congress, Concordia University, Canada, 15 May 2014.</p>
 	
