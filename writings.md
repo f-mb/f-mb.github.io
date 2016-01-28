@@ -7,13 +7,21 @@ permalink: /writings/
 <div class="post">
 	<h1 class="pageTitle">Writings</h1>
   	
-  	<h4>Encyclopedia chapter</h4>
+  		<h4>In Progress</h4>
+  		
+  		<p>The Idea of Property in Intellectual “Property” Law. (Paper.)</p>
+  		
+  		<p>Cinq décisions d'intérêt en matières de nom de domaine (2015). (Annuel review for <em>Cahiers de propriété intellectuelle</em>.)</p>
+  		
+  		<p>Une approche fonctionnelle du droit. (Paper.)</p>
+  		
+  		<h4>Encyclopedia chapter</h4>
 			
 			<p>“<span data-translation="Translation: “Industrial Design”">Dessins industriels</span>” (fasc. 11),
 			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… (looseleaf, annual update).
 			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
 			
-			<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
+		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2014)”">Cinq décisions d'intérêt en matières de nom de domaine (2014)</span>,” 
 			(2015) 27 <em>Cahiers de propriété intellectuelle</em> 735.</p>
