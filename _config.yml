@@ -6,7 +6,7 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 gems: [jekyll-paginate]
 paginate: 5
@@ -23,6 +23,6 @@ navigation:
 
 social:
    twitter: f_mb
-   email: fmb@openum.ca
+   email: florian@martinbariteau.org
 
 google_analytics: "UA-10030663-7"
