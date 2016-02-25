@@ -17,7 +17,7 @@ permalink: /contact/
   
   <div class="colx2">
   
-  <p><strong>E-mail</strong> <br/><a href="mailto:florian%40martinbariteau.org">florian<!--SPAM-->@<!--SPAM--> martinbariteau.org</a></p>
+  <p><strong>E-mail</strong> <br/><a href="mailto:florian%40martinbariteau.org">florian<!--SPAM-->@<!--SPAM-->martinbariteau.org</a></p>
 			
 	<p>
   	<strong>Phone</strong>
