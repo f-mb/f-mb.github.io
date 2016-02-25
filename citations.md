@@ -15,6 +15,9 @@ permalink: /writings/citations/
 	
 	<p>Pearson, A., & Tranter, K. (2015). <a href="http://link.springer.com/article/10.1007/s11196-015-9417-x">Code, Nintendo’s Super Mario and Digital Legality</a>. <em>International Journal for the Semiotics of Law</em>, 28(4), 825-842. [Citation of <em>The Matrix of Law</em>]</p>
 	
+	<p>Pétré, J. (2015). L’appréhension de l’ambush marketing en Belgique : constat, critiques et solutions.
+ LL.M. thesis. Louvain, Université catholique de Louvain. [Citation of <em>La marque événementielle, une protection nécessaire contre l'ambush marketing ?</em>]</p>
+ 
 	<p>Siiriainen, F. (2014). xxxx. In M. Vivant (Ed.), <em>Droit et économie de la propriété intellectuelle</em>, Paris, LGDJ. [Citation of <em>La marque au service de l'innovation</em>]</p>
 	
 	<p>Bernardi, Kevin (2012). La gouvernance du Comité International Olympique et l'organisation des Jeux Olympiques. Master of Law Thesis. Université de Perpignan Via Domitia. [Citation of <em>La marque événementielle, une protection nécessaire contre l'ambush marketing ?</em>]</p>
