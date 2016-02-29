@@ -10,9 +10,6 @@ permalink: /writings/
   		<h4>In Progress</h4>
   		
   		<p>The Idea of Property in Intellectual “Property” Law. (Paper.)</p>
-  		
-  		<p>Cinq décisions d'intérêt en matières de nom de domaine (2015). (Annuel review for <em>Cahiers de propriété intellectuelle</em>.)</p>
-  		
   		<p>Une approche fonctionnelle du droit. (Paper.)</p>
   		
   		<h4>Encyclopedia chapter</h4>
@@ -22,6 +19,9 @@ permalink: /writings/
 			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
 			
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
+			
+			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
+			(2016) 28 <em>Cahiers de propriété intellectuelle</em> ___. [Forthcoming, May 2016]</p>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2014)”">Cinq décisions d'intérêt en matières de nom de domaine (2014)</span>,” 
 			(2015) 27 <em>Cahiers de propriété intellectuelle</em> 735.</p>
