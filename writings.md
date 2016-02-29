@@ -6,18 +6,7 @@ permalink: /writings/
 
 <div class="post">
 	<h1 class="pageTitle">Writings</h1>
-  	
-  		<h4>In Progress</h4>
-  		
-  		<p>The Idea of Property in Intellectual “Property” Law. (Paper.)</p>
-  		<p>Une approche fonctionnelle du droit. (Paper.)</p>
-  		
-  		<h4>Encyclopedia chapter</h4>
-			
-			<p>“<span data-translation="Translation: “Industrial Design”">Dessins industriels</span>” (fasc. 11),
-			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… (looseleaf, annual update).
-			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
-			
+
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
@@ -48,6 +37,10 @@ permalink: /writings/
 			<a href="http://ssrn.com/abstract=2358600" target="_blank" class="link-label">SSRN</a> <a href="http://www.worldcat.org/issn/1777-7550" target="_blank" class="link-label">Worldcat</a></p>
 			
 			<h4>Others Journal Articles and Book Chapters</h4>
+			
+			<p>“<span data-translation="Translation: “Industrial Design”">Dessins industriels</span>” (fasc. 11),
+			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… (looseleaf, annual update).
+			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
 			
 			<p>“Internet Intermediaries Liability. Perspectives from the United States and Canada to Brazil”, 
 			in C. Affonso Pereira de Souza, M. Viola and R. Lemos (eds.), <em>Understanding Brazil's Internet Bill of Rights</em>, Rio de Janeiro, ITS, 2015, p. 56. <a href="http://ssrn.com/abstract=2682832" target="_blank" class="link-label">SSRN</a></p>
