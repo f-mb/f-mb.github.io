@@ -11,11 +11,10 @@ permalink: /about/
 
 	<h4>I am a legal scholar, a technologist and a creative.</h4>
 
-	<p>I am currently a LL.D. (Doctor of Laws) candidate in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>.
-	 My dissertation working title is "Rethinking Trademarks: A Functional Approach and Comparative Law Essay in a Global and Digital World."
+	<p>I am currently a LL.D. (Doctor of Laws) candidate in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>. My dissertation working title is "Rethinking Mark Right: A Functional Approach and Comparative Law Essay in a Global and Digital World."
 	
 	<p>I am also a Lecturer at the Faculty of Law and at the Department of Computer Sciences (DIRO), Université de Montréal, as well as Coordinator of <a href="https://openum.ca/en/" target="_blank">OpenUM</a> and the <a href="http://www.chairelrwilson.ca/en/" target="_blank">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>. In Spring 2015, I was named <em>Internet Policy Global Fellow</em> at the <a href="http://www.itsrio.org" target="_blank">Institute of Technology and Society at Rio de Janeiro (Brazil)</a>.
-	<em>(See affiliations <a href="#affiliations">bellow &darr;</a>.)</em></p>
+	<small>(See affiliations <a href="#affiliations">bellow &darr;</a>.)</small></p>
 	
 	
 	<p>As a legal scholar, my research focuses on Intellectual Property and Information Technology Law; with a special interest for Trade-marks (thesis subject), I aim to explain and rethink law in the digital era.
