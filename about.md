@@ -38,7 +38,6 @@ permalink: /about/
 	
 	<p id="affiliations"><strong>Current affiliations</strong></p>
 	<ul>
-		<li>Internet Policy Global Fellow, <a href="http://www.itsrio.org" target="_blank">Instituto de Tecnologia e Sociedade do Rio de Janeiro</a>, Brazil</li>
 		<li>Coordinator / Doctoral researcher, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
 		<li>Lecturer, Faculty of Law, Université de Montréal</li>
 		<li>Lecturer, Faculty of Computer Sciences and Operational Research, Université de Montréal</li>
@@ -46,5 +45,9 @@ permalink: /about/
 		<li>Doctoral researcher, <a href="http://www.rdcg.ca/en/" target="_blank">Regroupement Droit, changements et gouvernance</a> (FRQSC, Université de Montréal, McGill University and Université Laval)</li>
 		<li>Graduate Student, <a href="http://www.serene-risc.ca/en/" target="_blank">SERENE-RISC</a> (Smart Cybersecurity Network)</li>
 		<li>Doctoral researcher, G3 Propriété intellectuelle et responsabilité civile, <a href="http://www.g3univ.org/" target="_blank">G3</a> (Université de Montréal, Université Libre de Bruxelles, Université de Genève)</li>
+		
+		<strong>Formerly</strong>
+		<li>Internet Policy Global Fellow, <a href="http://www.itsrio.org" target="_blank">Instituto de Tecnologia e Sociedade do Rio de Janeiro</a>, Brazil (2015)</li>
+		<li>Young Scholar, <a href="http://www.chairejlb.ca" target="_blank">Chaire Jean-Louis-Beaudouin</a>, Université de Montréal, Canada</li>
 	</ul>
 </div>
