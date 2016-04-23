@@ -7,6 +7,15 @@ permalink: /writings/
 <div class="post">
 	<h1 class="pageTitle">Writings</h1>
 
+		<h4>In Progress</h4>
+		
+			<p>“Droits intellectuels et concurrence déloyale : le point de vue canadien et québécois,” 
+			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming, Fall 2016].</p>
+			
+			<p>“L'exception de parodie. L'expérience française” (avec Philippe Mouron).</p>
+			
+			<p>“L'exception de contenu non-commercial généré par les utilisateurs. L'expérience canadienne” (avec Philippe Mouron).</p>
+		
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
