@@ -7,11 +7,13 @@ permalink: /talks/
 <div class="post">
 	<h1 class="pageTitle">Talks</h1>
 	
-	<h4>Upcoming</h4>
-	
-	<p>“La concurrence déloyale en common law canadienne et droit civil québécois,” Annual Workshop, G3 Propriété intellectuelle et responsabilité civile, Université Libre de Bruxelles, April 14<sup>th</sup> 2016.</p>
+	<!--<h4>Upcoming</h4> -->
 		
-	<h4>Conferences</h4>
+	<h4>Presentations</h4>
+	
+	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, April 14<sup>th</sup> 2016.</p>
+	
+	<p>“Parodie + Internet. Point de vue canadien,” Regroupement Droit, changements et gouvernance's InterAxes Workshop, Université de Montréal, April 7<sup>th</sup> 2016. <a href="http://www.chairelrwilson.ca/en/videos/2016/philippe-mouron-florian-martin-bariteau-parodie-internet/" class="link-label" target="_blank">Slides</a> <a href="https://www.youtube.com/watch?v=s06XB7WMFhw" target="_blank" class="link-label">Video</a></p>
 	
 	<p>“<span data-translation="Translation: “Recent Development Regarding Domain Names”">Développements récents en matière de noms de domaine</span>,” Développement récents en propriété intellectuelle, Barreau du Québec, Montréal, Canada, 13 November 2015.</p>
 	
