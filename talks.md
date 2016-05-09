@@ -9,9 +9,9 @@ permalink: /talks/
 	
 	<!--<h4>Upcoming</h4> -->
 		
-	<h4>Presentations</h4>
+	<!--<h4>Presentations</h4>-->
 	
-	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, April 14<sup>th</sup> 2016.</p>
+	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, April 14<sup>th</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
 	
 	<p>“Parodie + Internet. Point de vue canadien,” Regroupement Droit, changements et gouvernance's InterAxes Workshop, Université de Montréal, April 7<sup>th</sup> 2016. <a href="http://www.chairelrwilson.ca/en/videos/2016/philippe-mouron-florian-martin-bariteau-parodie-internet/" class="link-label" target="_blank">Slides</a> <a href="https://www.youtube.com/watch?v=s06XB7WMFhw" target="_blank" class="link-label">Video</a></p>
 	
@@ -27,7 +27,7 @@ permalink: /talks/
 	
 	<p>“La marque face aux critiques sur Internet. La réponse peut-elle, et doit-elle, être juridique ?,” OMRSP International Symposium, 81th ACFAS Congress, Université Laval, Canada, 7 May 2013 (Refereed.) <a href="http://droitdu.net/2013/05/la-marque-face-aux-critiques-sur-internet/" class="link-label" target="_blank">Slides</a> <a href="http://www.ustream.tv/channel/observatoire-des-medias-sociaux-en-rp" target="_blank" class="link-label">Video</a></p>
 	
-	<p>“The Relationship Between Trade-Mark Law and Freedom of Expression on the Internet,” Symposium of the Junior Researchers, Regroupement Droit, changements et gouvernance, McGill University, Canada, 4 April 2013.</p>
+	<p>“The Relationship Between Trade-Mark Law and Freedom of Expression on the Internet,” Symposium of the Junior Researchers, Regroupement Droit, changements et gouvernance, McGill University, Canada, 4 April 2013. </p>
 	
 	<p>“La richesse des paradigmes. Enjeux et risques de la France au Québec,” LL.D. Symposium, Faculty of Law, Université de Montréal, Canada, 11 December 2012.</p>
 	
