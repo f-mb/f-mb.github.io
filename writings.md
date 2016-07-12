@@ -19,7 +19,7 @@ permalink: /writings/
 			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2016].</p>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
-			(2016) 28 <em>Cahiers de propriété intellectuelle</em> ___. [Forthcoming 2016]</p>
+			(2016) 28 <em>Cahiers de propriété intellectuelle</em> 503.</p>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2014)”">Cinq décisions d'intérêt en matières de nom de domaine (2014)</span>,” 
 			(2015) 27 <em>Cahiers de propriété intellectuelle</em> 735.</p>
