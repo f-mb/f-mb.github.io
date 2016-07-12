@@ -8,9 +8,6 @@ permalink: /writings/
 	<h1 class="pageTitle">Writings</h1>
 
 		<h4>In Progress</h4>
-		
-			<p>“Droits intellectuels et concurrence déloyale : le point de vue canadien et québécois,” 
-			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming, Fall 2016].</p>
 			
 			<p>“L'exception de parodie. L'expérience française” (avec Philippe Mouron).</p>
 			
@@ -18,8 +15,11 @@ permalink: /writings/
 		
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
+			<p>“<span data-translation="Translation: “Unfair Competition and Intellectual Rights: Perspective from Canada and Québec”">Concurrence déloyale et droits intellectuels : le point de vue canadien et québécois,</span>” 
+			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2016].</p>
+			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
-			(2016) 28 <em>Cahiers de propriété intellectuelle</em> ___. [Forthcoming, May 2016]</p>
+			(2016) 28 <em>Cahiers de propriété intellectuelle</em> ___. [Forthcoming 2016]</p>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2014)”">Cinq décisions d'intérêt en matières de nom de domaine (2014)</span>,” 
 			(2015) 27 <em>Cahiers de propriété intellectuelle</em> 735.</p>
