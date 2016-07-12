@@ -35,7 +35,7 @@ permalink: /writings/
 			(2014) 2 <em>Chantiers de la recherche en droit</em> 37. <a href="http://issuu.com/leschantiers/docs/chantiers_droit_vol2" target="_blank" class="link-label">Issuu</a></p>
 			
 			<p>“<span data-translation="Translation: “Under European Request, Canada is Reforming its Intellectual Property Law, Strongly Modeled on ACTA”">Sous pression européenne, le Canada lance une réforme de son droit de la propriété intellectuelle fortement inspirée par ACTA</span>,”
-			<em>Petites affiches</em>, 2014, n°6, p.7.</p>
+			<em>Petites affiches</em>, 2014, n°6, p.7. <a href="https://www.lextenso.fr/lextenso/ud/urn:PA201401087" target="_blank" class="link-label label-grey">Lextenso.fr</a></p>
 			
 			<p>“<span data-translation="Translation: “The Vanity URLs: New Challenges and Risks for Brands on Social Networks”">La vanity URLs : Nouveaux enjeux et nouveaux risques pour les marques sur les réseaux sociaux</span>,” 
 			in S. Agostinelli, D. Augey and F. Laurie (eds.), <em>La richesse des réseaux numériques</em>, Aix-en-Provence, PUAM, 2012. 
