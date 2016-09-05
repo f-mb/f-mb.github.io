@@ -21,14 +21,15 @@ permalink: /contact/
 			
 	<p>
   	<strong>Phone</strong>
-  	<br/>+1 514 343 7670 (office)</p>
+  	<br/>... (office)</p>
 			
   	<p>
   	<strong>Postal Address</strong>
-  	<br/>CRDP - Case A8444
-  	<br/>Faculty of Law, Université de Montréal
-  	<br/>PO Box 6128, Station Downtown
-	<br/>Montréal (Québec) H3C 3J7
+  	<br/>Prof. Martin-Bariteau Case 80
+  	<br/>Common Law Section
+  	<br/>Faculty of Law, University of Ottawa
+  	<br/>57 Louis Pasteur
+	<br/>Ottawa (Ontario) K1N 6N5
 	<br/>Canada</p>
 	
 	<p>
