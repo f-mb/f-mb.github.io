@@ -25,7 +25,7 @@ permalink: /contact/
 			
   	<p>
   	<strong>Postal Address</strong>
-  	<br/>Prof. Martin-Bariteau Case 80
+  	<br/>Prof. Martin-Bariteau (case 80)
   	<br/>Common Law Section
   	<br/>Faculty of Law, University of Ottawa
   	<br/>57 Louis Pasteur
