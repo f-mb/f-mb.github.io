@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Florian Martin-Bariteau
+title: About Prof. Florian Martin-Bariteau
 permalink: /about/
 ---
 
@@ -11,10 +11,11 @@ permalink: /about/
 
 	<h4>I am a legal scholar, a technologist and a creative.</h4>
 
-	<p>I am currently a LL.D. (Doctor of Laws) candidate in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>. My dissertation working title is "Rethinking Mark Right: A Functional Approach and Comparative Law Essay in a Global and Digital World."
+	<p>I am currently an Assistant Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a> and Director of the <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a> at the University of Ottawa.</p>
 	
-	<p>I am also a Lecturer at the Faculty of Law and at the Department of Computer Sciences (DIRO), Université de Montréal, as well as Coordinator of <a href="https://openum.ca/en/" target="_blank">OpenUM</a> and the <a href="http://www.chairelrwilson.ca/en/" target="_blank">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>. In Spring 2015, I was named <em>Internet Policy Global Fellow</em> at the <a href="http://www.itsrio.org" target="_blank">Institute of Technology and Society at Rio de Janeiro (Brazil)</a>.
-	<small>(See affiliations <a href="#affiliations">bellow &darr;</a>.)</small></p>
+	<p>I am completing a LL.D. (Doctor of Laws) in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>. My dissertation is "Rethinking Trademark Right: A Functional Approach Essay on Marks in a Global and Digital World." The manuscript was submitted on August 2016.
+	
+	<p>Previously, I was a Lecturer at the Faculty of Law and at the Department of Computer Sciences (DIRO), Université de Montréal, as well as Coordinator of <a href="https://openum.ca/en/" target="_blank">OpenUM</a> and the <a href="http://www.chairelrwilson.ca/en/" target="_blank">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>. In Spring 2015, I was named <em>Internet Policy Global Fellow</em> at the <a href="http://www.itsrio.org" target="_blank">Institute of Technology and Society at Rio de Janeiro (Brazil)</a>.</p>
 	
 	
 	<p>As a legal scholar, my research focuses on Intellectual Property and Information Technology Law; with a special interest for Trade-marks (thesis subject), I aim to explain and rethink law in the digital era.
@@ -37,15 +38,18 @@ permalink: /about/
 	
 	<p id="affiliations"><strong>Current affiliations</strong></p>
 	<ul>
-		<li>Coordinator / Doctoral researcher, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
-		<li>Lecturer, Faculty of Law, Université de Montréal</li>
-		<li>Lecturer, Faculty of Computer Sciences and Operational Research, Université de Montréal</li>
+		<li>Assistant Professor, <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a>, University of Ottawa </li>
+		<li>Director, <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a>, University of Ottawa.</li>
+		<br/>
+		<li>Doctoral researcher, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
 		<li>Doctoral researcher, <a href="http://www.crdp.umontreal.ca/" target="_blank">Centre de recherche en droit public</a>, Université de Montréal</li>
 		<li>Doctoral researcher, <a href="http://www.rdcg.ca/en/" target="_blank">Regroupement Droit, changements et gouvernance</a> (FRQSC, Université de Montréal, McGill University and Université Laval)</li>
 		<li>Graduate Student, <a href="http://www.serene-risc.ca/en/" target="_blank">SERENE-RISC</a> (Smart Cybersecurity Network)</li>
 		<li>Doctoral researcher, G3 Propriété intellectuelle et responsabilité civile, <a href="http://www.g3univ.org/" target="_blank">G3</a> (Université de Montréal, Université Libre de Bruxelles, Université de Genève)</li>
 		
 		<strong>Formerly</strong>
+		<li>Lecturer, Faculty of Law, Université de Montréal</li>
+		<li>Lecturer, Faculty of Computer Sciences and Operational Research, Université de Montréal</li>
 		<li>Internet Policy Global Fellow, <a href="http://www.itsrio.org" target="_blank">Instituto de Tecnologia e Sociedade do Rio de Janeiro</a>, Brazil (2015)</li>
 		<li>Young Scholar, <a href="http://www.chairejlb.ca" target="_blank">Chaire Jean-Louis-Beaudouin</a>, Université de Montréal, Canada</li>
 	</ul>
