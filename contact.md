@@ -17,11 +17,12 @@ permalink: /contact/
   
   <div class="colx2">
   
-  <p><strong>E-mail</strong> <br/><a href="mailto:florian%40martinbariteau.org">florian<!--SPAM-->@<!--SPAM-->martinbariteau.org</a></p>
+  <p><strong>E-mail</strong> <br/><a href="mailto:fmb%40uottawa.ca">fmb<!--SPAM-->@<!--SPAM-->uottawa.ca</a>
+  <br/><strong>E-mail is the preferred way to reach me</strong>.</p>
 			
 	<p>
   	<strong>Phone</strong>
-  	<br/>... (office)</p>
+  	<br/>+1 613-562-5800 #3474 (office)</p>
 			
   	<p>
   	<strong>Postal Address</strong>
@@ -33,7 +34,6 @@ permalink: /contact/
 	<br/>Canada</p>
 	
 	<p>
-				<strong>E-mail is the preferred way to reach me</strong>.
 				You can also <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Hey%20@f_mb!%20I%20have%20a%20question%20for%20you:&amp;related=f_mb"><i class="icon-twitter"></i> tweet me</a>.
 				If you prefer to talk, we can arrange phone call or <a href="mailto:florian%40martinbariteau.org?subject=Could we skype?"><i class="icon-skype"></i> Skype</a>.
 			</p>
