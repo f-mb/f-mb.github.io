@@ -18,7 +18,8 @@ permalink: /contact/
   <div class="colx2">
   
   <p><strong>E-mail</strong> <br/><a href="mailto:fmb%40uottawa.ca">fmb<!--SPAM-->@<!--SPAM-->uottawa.ca</a>
-  <br/><strong>E-mail is the preferred way to reach me</strong>.</p>
+  <br/><strong><em>E-mail is the preferred way to reach me</em></strong>.
+  <br/>PGP: <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0xF0609770523E438C" target="_blank">0x523E438C</a></p>
 			
 	<p>
   	<strong>Phone</strong>
