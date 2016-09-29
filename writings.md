@@ -72,7 +72,7 @@ permalink: /writings/
 			
 			<h4>Op-Ed and Scholar Blogs</h4>
 			
-			<p>“Quando o Brasil terá uma lei para proteção de dados pessoais?,” trans. C. Albanel, <em>HuffPost Brasil</em>, 17 October 2015. <a href="http://www.brasilpost.com.br/instituto-de-tecnologia-e-sociedade/lei-protecao-dados-pessoais-brasil_b_8315534.html" target="_blank" class="link-label">BrasilPost.com.br</a>
+			<p>“Quando o Brasil terá uma lei para proteção de dados pessoais?,” trans. C. Albanel, <em>HuffPost Brasil</em>, 17 October 2015. <a href="http://www.brasilpost.com.br/instituto-de-tecnologia-e-sociedade/lei-protecao-dados-pessoais-brasil_b_8315534.html" target="_blank" class="link-label">BrasilPost.com.br</a></p>
 			
 			<p>“The Mosley/Google Case: Why Privacy Can Not Be Argued for ‘Notice and Stay Down,’” <em>Droitdu.net</em>, 17 November 2013 (Comments of: TGI Paris, 6 November 2013, RG 11/07970, <em>Max Mosley / Google Inc. and Google France</em>.) <a href="http://droitdu.net/2013/11/the-mosley-case-paris-why-privacy-can-not-be-argued-for-notice-and-stay-down/" target="_blank" class="link-label">Droitdu.net</a></p>
 			
