@@ -93,5 +93,5 @@ permalink: /writings/
 			<p>“La marque événementielle, une forme de protection nécessaire contre l'ambush marketing ?”, Master's thesis, Université Aix-Marseille III, 2010, 153 p. <em>Published on the website of the EU Intellectual Property Office (then OHIM).</em></p>
 			
 			<p>“La protection des savoirs et ressources traditionnels des peuples autochtones”, Institut Portalis' thesis, Université Aix-Marseille III, 2008, 121 p.</p>
-			
-<!-- markA --></div><!-- markB -->
+
+<!-- markA --</div>!-- markB -->
