@@ -94,4 +94,4 @@ permalink: /writings/
 			
 			<p>“La protection des savoirs et ressources traditionnels des peuples autochtones”, Institut Portalis' thesis, Université Aix-Marseille III, 2008, 121 p.</p>
 
-<!-- markA --</div>!-- markB -->
+</div>
