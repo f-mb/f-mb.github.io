@@ -13,10 +13,9 @@ permalink: /about/
 
 	<p>I am currently an Assistant Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a> and Director of the <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a> at the University of Ottawa.</p>
 	
-	<p>I am completing a LL.D. (Doctor of Laws) in IP and IT law at Université de Montréal, under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>. My dissertation is "Rethinking Trademark Right: A Functional Approach Essay on Marks in a Global and Digital World." The manuscript was submitted on August 2016.</p>
+	<p>In December 2016, I successfully defended my LL.D. (Doctor of Laws) thesis at Université de Montréal and was awarded the highest distinction (mention "exceptionel", <em>summa cum laude</em>). My dissertation, "Rethinking Trademark Right: A Functional Approach Essay on Marks in a Global and Digital World." (written under the supervision of Prof. <a href="https://www.gautrais.com/vincent/bio/">Vincent Gautrais</a>), has been accepted for publication by LexisNexis Canada and will be released in an edited version in Septembre 2017.</p>
 	
 	<p>Previously, I was a Lecturer at the Faculty of Law and at the Department of Computer Sciences (DIRO), Université de Montréal, as well as Coordinator of <a href="https://openum.ca/en/" target="_blank">OpenUM</a> and the <a href="http://www.chairelrwilson.ca/en/" target="_blank">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>. In Spring 2015, I was named <em>Internet Policy Global Fellow</em> at the <a href="http://www.itsrio.org" target="_blank">Institute of Technology and Society at Rio de Janeiro (Brazil)</a>.</p>
-	
 	
 	<p>As a legal scholar, my research focuses on Intellectual Property and Information Technology Law; with a special interest for Trade-marks (thesis subject), I aim to explain and rethink law in the digital era.
 	If my researches and other academic activities consume most of my time, reading and sometimes <a href="/writings">writing</a> academic materials, I used to be a developer and creative/publicist (see "My other life" bellow).
