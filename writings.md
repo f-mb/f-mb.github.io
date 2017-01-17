@@ -7,16 +7,24 @@ permalink: /writings/
 <div class="post">
 	<h1 class="pageTitle">Writings</h1>
 
+		<!--
 		<h4>In Progress</h4>
 			
 			<p>“L'exception de parodie. L'expérience française” (avec Philippe Mouron).</p>
 			
 			<p>“L'exception de contenu non-commercial généré par les utilisateurs. L'expérience canadienne” (avec Philippe Mouron).</p>
+		-->
+		<h4>Book</h4>
+		
+			<em>Le droit de marque dans l’économie globale et numérique</em>, LexisNexis Canada, [Forthcoming September 2017].
 		
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
+			<p>“<span data-translation="Translation: “The New Frontiers of the Concept of Trademark”">Les nouvelles frontières de la notion de marque,</span>”, 
+			<em>Cahiers de propriété intellectuelle</em>, [Forthcoming 2017].</p>
+
 			<p>“<span data-translation="Translation: “Unfair Competition and Intellectual Rights: Perspective from Canada and Québec”">Concurrence déloyale et droits intellectuels : le point de vue canadien et québécois,</span>” 
-			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2016].</p>
+			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2017].</p>
 			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2015)”">Cinq décisions d'intérêt en matières de noms de domaine (2015)</span>,” 
 			(2016) 28 <em>Cahiers de propriété intellectuelle</em> 503.</p>
@@ -48,7 +56,7 @@ permalink: /writings/
 			<h4>Others Journal Articles and Book Chapters</h4>
 			
 			<p>“<span data-translation="Translation: “Industrial Design”">Dessins industriels</span>” (fasc. 11),
-			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… (looseleaf, annual update).
+			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… [2015, 2016, 2017] (looseleaf, annual update).
 			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
 			
 			<p>“Internet Intermediaries Liability. Perspectives from the United States and Canada to Brazil”, 
@@ -84,7 +92,9 @@ permalink: /writings/
 			
 			<p>“Un site américain fait usage de sa ‘marque’ au Canada, s’il s’adresse au public canadien,” <em>Droitdu.net</em>, 11 March 2013 (Comments of: <em>HomeAway.com Inc. </em>v.<em> Hrdlicka</em>, 2012 FC 1467.) <a href="http://droitdu.net/2013/03/un-site-americain-fait-usage-de-sa-marque-au-canada-sil-sadresse-au-public-canadien/" class="link-label">Droitdu.net</a></p>
 			
-			<h4>Other</h4>
+			<h4>Thesis and working papers</h4>
+			
+			<p><em>Repenser le droit de marque. Essaie sur une approche fonctionnelle des marques dans l’économie globale et numérique</em>, Thesis for the Doctorate of Laws (LL.D.), under the supervision of Prof Vincent Gautrais, Université de Montréal. Publicly defended on December 9th, 2016 and accepted with the distinction « exceptionnel » (<em>summa cum laude</em>, 5 %), the congratulations of the committee, proposed to the University Dean of Graduate Studies' Honour List, and to represent the University to best thesis competitions.</p>
 			
 			<p>“Factum for Interveners in <em>United Airlines v. Cooperstock (Untied.com)</em>,” 
 			with M. Quadrani and A. Thorogood, 

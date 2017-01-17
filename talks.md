@@ -5,13 +5,24 @@ permalink: /talks/
 ---
 
 <div class="post">
+
 	<h1 class="pageTitle">Talks</h1>
 	
-	<!--<h4>Upcoming</h4> -->
-		
-	<!--<h4>Presentations</h4>-->
+	<h4>Upcoming</h4>
 	
-	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, April 14<sup>th</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
+	<p>“Protection de l’innovation et lanceurs d’alerte”, Workshop, University of Ottawa, Ottawa, ON, May 9th, 2017.
+	
+	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa, ON, May 8th, 2017.
+	
+	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 2, 2017.
+	
+	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC March 17th 2017.
+
+	<h4>Presentations</h4>
+	
+	<p>“Les nouvelles frontières de la notion de marque”, International Symposium, G3 / Université de Montréal, Montréal, QC, December 2<sup>nd</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
+	
+	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, Bruxelles, Belgium, April 14<sup>th</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
 	
 	<p>“Parodie + Internet. Point de vue canadien,” Regroupement Droit, changements et gouvernance's InterAxes Workshop, Université de Montréal, April 7<sup>th</sup> 2016. <a href="http://www.chairelrwilson.ca/en/videos/2016/philippe-mouron-florian-martin-bariteau-parodie-internet/" class="link-label" target="_blank">Slides</a> <a href="https://www.youtube.com/watch?v=s06XB7WMFhw" target="_blank" class="link-label">Video</a></p>
 	
@@ -34,5 +45,9 @@ permalink: /talks/
 	<p>“Marques et réseaux sociaux. Quelle protection juridique ?,” Médias011 International Symposium,  Université Aix-Marseille III, France, 8 December 2011 (Refereed.)</p>
 	
 	<p>“Event Marks – Trade mark abuse or necessary form of protection in view of ambush marketing?,” OHIM University Research Network Seminar, Alicante, Spain, 4 May 2010.</p>
+
+	<h4>Panel moderation</h4>
+	
+	<p>“Roadmap for a Free and Open Internet: Insights from Brazil”, Panel, Centre for Law, Technology and Society, University of Ottawa, Ottawa, ON, November 22nd 2016.
 
 </div>
