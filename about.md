@@ -40,6 +40,7 @@ permalink: /about/
 		<br/>
 		<em>Other affiliations</em>
 		<li>Affiliate Faculty, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
+		<li>Co-Investigator</li>, <a href="https://www.serene-risc.ca/en/">SERENE RISC</a>.
 		<li>Collaborator, <a href="http://www.crdp.umontreal.ca/" target="_blank">Centre de recherche en droit public</a>, Université de Montréal</li>
 		<li>Collaborator, <a href="http://www.rdcg.ca/en/" target="_blank">Regroupement Droit, changements et gouvernance</a> (FRQSC, Université de Montréal, McGill University and Université Laval)</li>
 		<br/>
