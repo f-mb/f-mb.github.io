@@ -10,13 +10,11 @@ permalink: /talks/
 	
 	<h4>Upcoming</h4>
 	
+	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC March 17th 2017.
+	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 2, 2017.
+	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa, ON, May 8th, 2017.
 	<p>“Protection de l’innovation et lanceurs d’alerte”, Workshop, University of Ottawa, Ottawa, ON, May 9th, 2017.
 	
-	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa, ON, May 8th, 2017.
-	
-	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 2, 2017.
-	
-	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC March 17th 2017.
 
 	<h4>Presentations</h4>
 	
