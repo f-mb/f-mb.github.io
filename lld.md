@@ -19,9 +19,8 @@ permalink: /lld/
 	
 	<p><strong>Mots-clés</strong> Droit de marque – Approche fonctionnelle – Droit canadien – Droit de l’Union européenne – Droit des biens</p>
 
-	<p>Fichiers
-	<br/><a href="/files/Martin-Bariteau_Florian_2016_These_TDM.pdf" target="_blank">Pages de couverture et table des matières</a>
-	<br/>Thèse sous embargo jusqu'en 2022.
+	<p><strong>Fichiers</strong>
+	<br/><a href="/files/Martin-Bariteau_Florian_2016_These_TDM.pdf" target="_blank">Pages de couverture et table des matières</a> <em>(Thèse sous embargo jusqu'en 2022.)</em>
 	</p>
 
 	<p><strong>Directeur de recherche</strong>
@@ -62,6 +61,10 @@ permalink: /lld/
 
 	<p></p>
 	
+	<hr/>
+	
+	<p></p>
+	
 	<p id="EN"><strong>Citation</strong><br/>Florian Martin-Bariteau, <em>Repenser le droit de marque : Essai sur une approche fonctionnelle des marques dans l’économie globale et numérique</em>, Doctor of Laws (LL.D.) Thesis, Montreal QC, Université de Montréal, 2016.</p>
 
 	<p><strong>Abstract</strong>
@@ -72,9 +75,8 @@ permalink: /lld/
 	
 	<p><strong>Keywords</strong><br/>Trademark Right – Functional Approach – Canadian Law – European Union Law – Property Law</p>
 
-	<p>Files
-	<br/><a href="/files/Martin-Bariteau_Florian_2016_These_TDM.pdf" target="_blank">Cover pages and table of content (in French)</a>
-	<br/>Manuscript under embargo until 2022.
+	<p><strong>Files</strong>
+	<br/><a href="/files/Martin-Bariteau_Florian_2016_These_TDM.pdf" target="_blank">Cover pages and table of content (in French)</a> <em>(Manuscript under embargo until 2022.)</em>
 	</p>
 	
 	
