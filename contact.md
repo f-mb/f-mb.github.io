@@ -11,7 +11,7 @@ permalink: /contact/
   
   <div class="colx2">
     
-    <img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}" alt=""> 
+    <img src="{{ '/assets/img/fmb_web.jpg' | prepend: site.baseurl }}" alt=""> 
   
   </div>
   

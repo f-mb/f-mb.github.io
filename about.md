@@ -7,7 +7,7 @@ permalink: /about/
 <div class="post">
 	<h1 class="pageTitle">About me</h1>
 	
-	<!--<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}" alt="">--> 
+	<img src="{{ '/assets/img/fmb_web.jpg' | prepend: site.baseurl }}" alt=""> 
 
 	<h4>I am a legal scholar, a technologist and a creative.</h4>
 
