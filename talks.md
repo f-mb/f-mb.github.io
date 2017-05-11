@@ -8,16 +8,20 @@ permalink: /talks/
 
 	<h1 class="pageTitle">Talks</h1>
 	
-	<h4>Upcoming</h4>
+	<!--<h4>Upcoming</h4>-->
 	
-	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC March 17th 2017.
-	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 2, 2017.
-	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa, ON, May 8th, 2017.
-	<p>“Protection de l’innovation et lanceurs d’alerte”, Workshop, University of Ottawa, Ottawa, ON, May 9th, 2017.
-	
-
 	<h4>Presentations</h4>
+
+	<p>“Les lanceurs d’alerte / The Whistleblowers”, Workshop, University of Ottawa, Ottawa ON, May 9th, 2017.
+
+	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa ON, May 8th, 2017.
 	
+	<p>“Droit des marques et liberté d'expression”, Keynote, Regroupement des praticiens en droit des marques de commerce, Montréal QC, May 4th, 2017.
+	
+	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 1, 2017.
+
+	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC, March 17th 2017.
+		
 	<p>“Les nouvelles frontières de la notion de marque”, International Symposium, G3 / Université de Montréal, Montréal, QC, December 2<sup>nd</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
 	
 	<p>“Droits intellectuels et concurrence déloyale. Relations en droits canadien et québécois,” International Symposium “Popriété intellectuelle & concurrence déloyale”, G3 / Université Libre de Bruxelles, Bruxelles, Belgium, April 14<sup>th</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>

@@ -17,7 +17,8 @@ permalink: /lld/
 	<br/>Une reconstruction fonctionnelle de la notion de marque permet d’enligner le droit avec la diversité des marques dans la société moderne : tout ce qui est à même de référer le public à une origine devrait se qualifier au titre d’une marque. Cela permet notamment d’inclure de manière cohérente les hologrammes et les noms de domaine à l’édifice, outre les autres formes de marque encore inconnues.
 	<br/>Cette approche fonctionnelle permettra de surcroît de recentrer le droit de marque sur la notion de confusion du public. Il s’agit notamment d’abandonner le critère de l’emploi, tout en sortant les marques de la sphère du mercantile. Cette rationalité retrouvée offrira une ligne de protection flexible répondant aux enjeux démocratiques de protection de la liberté d’expression mais également à ceux du numérique en lien par exemple avec la publicité ou les mots-clics.</p>
 	
-	<p><strong>Mots-clés</strong> Droit de marque – Approche fonctionnelle – Droit canadien – Droit de l’Union européenne – Droit des biens</p>
+	<p><strong>Mots-clés</strong>
+	<br/>Droit de marque – Approche fonctionnelle – Droit canadien – Droit de l’Union européenne – Droit des biens</p>
 
 	<p><strong>Fichiers</strong>
 	<br/><a href="/files/Martin-Bariteau_Florian_2016_These_TDM.pdf" target="_blank">Pages de couverture et table des matières</a> <em>(Thèse sous embargo jusqu'en 2022.)</em>
