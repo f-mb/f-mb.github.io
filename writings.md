@@ -20,8 +20,11 @@ permalink: /writings/
 		
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
-			<p>“<span data-translation="Translation: “The New Frontiers of the Concept of Trademark”">Les nouvelles frontières de la notion de marque,</span>”, 
-			<em>Cahiers de propriété intellectuelle</em>, [Forthcoming 2017].</p>
+			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2016)”">Cinq décisions d’intérêt en matière de noms de domaine en 2016,</span>”, 
+			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, ___ [Forthcoming].</p>
+			
+			<p>“<span data-translation="Translation: “The New Frontiers of the Concept of Trademark”">Aux nouvelles frontières de la notion de marque,</span>”, 
+			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, ___ [Forthcoming].</p>
 
 			<p>“<span data-translation="Translation: “Unfair Competition and Intellectual Rights: Perspective from Canada and Québec”">Concurrence déloyale et droits intellectuels : le point de vue canadien et québécois,</span>” 
 			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2017].</p>
