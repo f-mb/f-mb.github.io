@@ -2,13 +2,21 @@
 
 <head>
   <title>uOttawa News iFrame</title>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 
 <body>
 
 <h1>News</h1>
 
-<iframe src="http://commonlaw.uottawa.ca/en/about/news" style="border: 1px solid red;" width="100%" height="1000px"></iframe>
-test
+
+
+<div id="webpage"></div>
+
+<script>$('#webpage').load('https://commonlaw.uottawa.ca/en/about/news #uodv-wrapper');</script>
+
+<hr/>
+
+
 </body>
 </html>
