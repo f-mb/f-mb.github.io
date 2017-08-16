@@ -3,6 +3,7 @@
 <head>
   <title>uOttawa News iFrame</title>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <base href="http://f-mb.org/test/">
 </head>
 
 <body>
@@ -13,7 +14,16 @@
 
 <div id="webpage"></div>
 
-<script>$('#webpage').load('https://commonlaw.uottawa.ca/en/about/news #uodv-wrapper');</script>
+<script>
+$( "#webpage" ).load( "https://commonlaw.uottawa.ca/en/about/news", function( response, status, xhr ) {
+  if ( status == "error" ) {
+    var msg = "Sorry but there was an error: ";
+    $( "#error" ).html( msg + xhr.status + " " + xhr.statusText );
+  }
+});
+</script>
+
+<!--<script>$('#webpage').load('https://commonlaw.uottawa.ca/en/about/news #uodv-wrapper');</script>-->
 
 <hr/>
 
