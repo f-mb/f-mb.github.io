@@ -4,6 +4,10 @@
   <title>uOttawa News iFrame</title>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <base href="http://f-mb.org/test/">
+  <script>
+  var domainString = document.domain;
+  document.domain ="test.f-mb.org";
+  </script>
 </head>
 
 <body>
@@ -11,6 +15,9 @@
 <h1>News</h1>
 
 
+<iframe src="https://commonlaw.uottawa.ca/en/about/news"></iframe>
+
+<hr/>
 
 <div id="webpage"></div>
 

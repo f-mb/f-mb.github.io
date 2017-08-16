@@ -1,8 +1,74 @@
 <html>
+
 <head>
-<title>uOttawa uOcal iFrame</title>
+  <title>uOttawa News iFrame</title>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <base hrefd="http://www.uocal.uottawa.ca/">
+  
+
 </head>
+
 <body>
+
 <h1>uoCal</h1>
+
+<a href="/ok">ok</a>
+
+<div id="webpage"></div>
+
+<div id="error"></div>
+
+<script>
+
+var uocal_url = location.search.replace('?uocal=', '');
+
+//params={};location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(s,k,v){params[k]=v})
+
+document.write(uocal_url);
+
+document.domain = "www.uocal.uottawa.ca";
+
+if(uocal_url=='') uocal_url="en/calendar/?&granularity=week&f[0]=occasion_parent%253Afield_event_organization%3A98";
+
+
+$( '#webpage' ).load( "http://www.uocal.uottawa.ca/" + uocal_url, function( response, status, xhr ) {
+
+  if ( status == "error" ) {
+    var msg = "Sorry but there was an error: ";
+    $( "#error" ).html( msg + xhr.status + " " + xhr.statusText );
+  }
+  
+  $(this).find('a:not([href^="http://"]):not([href^="https://"])').attr('href', function(_,href) {
+        return '?uocal=' + href;
+    });
+  
+});
+
+
+</script>
+
+<!--<script>
+
+//$( "#webpage" ).load( "http://uocal.uottawa.ca/en/calendar/?&granularity=week&f[0]=occasion_parent%253Afield_event_organization%3A98", function( response, status, xhr ) {
+
+$( "#webpage" ).load( "http://www.uocal.uottawa.ca/en/node/19121", function( response, status, xhr ) {
+
+  if ( status == "error" ) {
+    var msg = "Sorry but there was an error: ";
+    $( "#error" ).html( msg + xhr.status + " " + xhr.statusText );
+  }
+});
+</script>-->
+
+  <style>
+  body, #section-container { background: none; }
+  #wrapper, #main-content { width: 100% !important;  }
+  #highlighted, #main-banner, #section-header, #page-links, #navigation, #sidebar-right, #section-closure, #main-siteinfo, .event-actions { display: none; }
+  .addcal-calendar { display: block !important; }
+  </style>
+  
+<hr/>
+
+
 </body>
 </html>
