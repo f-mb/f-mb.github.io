@@ -19,11 +19,9 @@ permalink: /contact/
   
   <p><strong>E-mail</strong> <br/><a href="mailto:fmb%40uottawa.ca">fmb<!--SPAM-->@<!--SPAM-->uottawa.ca</a>
   <br/><strong><em>E-mail is the preferred way to reach me</em></strong>.
-  <br/>PGP: <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0xF0609770523E438C" target="_blank">0x523E438C</a>
-  <br/>Signal: {ask}
-  <br/>Telegram: <a href="http://telegram.me/fmbtel" target="_blank">@fmbtel</a></p>
+  <br/>PGP: <a href="http://pgp.mit.edu/pks/lookup?op=get&search=0xF0609770523E438C" target="_blank">0x523E438C</a></p>
   
-  <p><em>Please keep in mind that @uottawa.ca mailboxes are subject to ATIP requests.</em></p>
+  <!--<p><em>Please keep in mind that @uottawa.ca mailboxes are subject to ATIP requests.</em></p>-->
 			
 	<p>
   	<strong>Phone</strong>
