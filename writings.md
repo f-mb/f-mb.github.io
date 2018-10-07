@@ -7,13 +7,19 @@ permalink: /writings/
 <div class="post">
 	<h1 class="pageTitle">Writings</h1>
 
-		<!--
-		<h4>In Progress</h4>
+		
+		<h4>Works In Progress</h4>
 			
-			<p>“L'exception de parodie. L'expérience française”</p>
+			<p>“The Many Sides of a Coin: Crytocurrencies Facing Up Canadian Law”</p>
 			
-			<p>“L'exception de contenu non-commercial généré par les utilisateurs. L'expérience canadienne”</p>
-		-->
+			<p>“Whistleblowers in a Corporate World: The Protection of Trade Secrets and Public Interest under Canadian Common Law”</p>
+			
+			<p>“The Idea of Property in Intellectual Property”</p>
+			
+			<p>“Essai sur une approche fonctionnelle du droit”</p>
+			
+			<p>“Entre l'enclume et le marteau: les lanceurs d'alerte face aux secrets commerciaux en droit québécois”</p>
+		
 		<h4>Book</h4>
 		
 			<p><em>Le droit de marque dans l’économie globale et numérique</em>, LexisNexis Canada, [Forthcoming September 2017].<p>
