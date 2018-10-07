@@ -10,21 +10,23 @@ permalink: /writings/
 		<!--
 		<h4>In Progress</h4>
 			
-			<p>“L'exception de parodie. L'expérience française” (avec Philippe Mouron).</p>
+			<p>“L'exception de parodie. L'expérience française”</p>
 			
-			<p>“L'exception de contenu non-commercial généré par les utilisateurs. L'expérience canadienne” (avec Philippe Mouron).</p>
+			<p>“L'exception de contenu non-commercial généré par les utilisateurs. L'expérience canadienne”</p>
 		-->
 		<h4>Book</h4>
 		
-			<em>Le droit de marque dans l’économie globale et numérique</em>, LexisNexis Canada, [Forthcoming September 2017].
+			<p><em>Le droit de marque dans l’économie globale et numérique</em>, LexisNexis Canada, [Forthcoming September 2017].<p>
 		
 		<h4><span style="text-decoration: underline;">Peer-reviewed</span> Journal Articles and Book Chapters</h4>
 			
+			<p>“Trade Secrets and Whistleblowers: A Brief Overview,”, In: Goudreau M. (Ed.), New Paradigms in Intellectual Property. Montréal QC, Canada: Yvon Blais. Forthcoming.</p>
+			
 			<p>“<span data-translation="Translation: “Five Interesting Cases Regarding Domain Names (2016)”">Cinq décisions d’intérêt en matière de noms de domaine en 2016,</span>”, 
-			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, ___ [Forthcoming].</p>
+			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, 577-601.</p>
 			
 			<p>“<span data-translation="Translation: “The New Frontiers of the Concept of Trademark”">Aux nouvelles frontières de la notion de marque,</span>”, 
-			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, ___ [Forthcoming].</p>
+			(2017) 29 <em>Cahiers de propriété intellectuelle</em>, 603-647.</p>
 
 			<p>“<span data-translation="Translation: “Unfair Competition and Intellectual Rights: Perspective from Canada and Québec”">Concurrence déloyale et droits intellectuels : le point de vue canadien et québécois,</span>” 
 			in A. Puttemans, Y. Gendreau et J. de Werra (eds.), <em>Propriété intellectuelle & concurrence déloyale. Les liaisons dangereuses ?</em>, Bruxelles, Bruylant, [Forthcoming 2017].</p>
@@ -58,6 +60,10 @@ permalink: /writings/
 			
 			<h4>Others Journal Articles and Book Chapters</h4>
 			
+			<p>"Introduction", (2018) 30(2) Intellectual Property Journal 181-182, with Teresa Scassa</p>
+			
+			<p>"Internet Intermediaries’ Liability: a North American Perspective". In: C. Affonso Pereira de Souza, M. Viola and R. Lemos (Eds.), Brazil’s Internet Bill or Rights: A Closer Look, p.101-117. Juiz de Fora, MG, Brésil: Editar Editora Associada, 2017.</p>
+			
 			<p>“<span data-translation="Translation: “Industrial Design”">Dessins industriels</span>” (fasc. 11),
 			in <em>JurisClasseur Québec</em>, Propriété intellectuelle, Montréal, LexisNexis Canada, 2014-… [2015, 2016, 2017] (looseleaf, annual update).
 			<a href="http://www.worldcat.org/isbn/978-0433468974" target="_blank" class="link-label">Worldcat</a></p>
@@ -82,6 +88,10 @@ permalink: /writings/
 			<a href="http://www.lexisnexis.fr/droit-document/p/la-semaine-juridique-entreprise-affaires/22-2012/352_PS_SJE_SJE1222CM01352.htm" target="_blank" class="link-label label-grey">LexisNexis.fr</a></p>
 			
 			<h4>Op-Ed and Scholar Blogs</h4>
+			
+			<p>Vers la fin de la « neutralité du Net »?. Options Politiques, 2017. <a href="https://goo.gl/L9EUEX" target="_blank" class="link-label">Read</a></p>
+			<p>Opinion: Canada’s privacy commissioner needs power to fine privacy infringers. The Hill Times, 2017 <a href="http://www.hilltimes.com/2017/06/05/canadas-privacy-commissioner-needs-power-fine-privacy-infringers/108991" target="_blank" class="link-label">Read</a>
+			<p>Opinion : Donnons des pouvoirs de sanction au Commissaire à la protection de la vie privée. La Presse+, 2017. <a href="https://goo.gl/VqTVii" target="_blank" class="link-label">Read</a>
 			
 			<p>“Quando o Brasil terá uma lei para proteção de dados pessoais?,” trans. C. Albanel, <em>HuffPost Brasil</em>, 17 October 2015. <a href="http://www.brasilpost.com.br/instituto-de-tecnologia-e-sociedade/lei-protecao-dados-pessoais-brasil_b_8315534.html" target="_blank" class="link-label">BrasilPost.com.br</a></p>
 			
