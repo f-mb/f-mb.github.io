@@ -8,19 +8,39 @@ permalink: /talks/
 
 	<h1 class="pageTitle">Talks</h1>
 	
-	<!--<h4>Upcoming</h4>-->
+	<h4>Upcoming</h4>
+	
+	<p>“Bitcoin and beyond from a legal perspective”, Ottawa, ON, Oct. 9, 2018.</p>
+	<p>“Cybermemorials, Privacy and Intellectual Property”, Montréal, QC, Oct. 11, 2018.</p>
+	<p>“Diruptive Innovations: Blockchain Opportunities and Challenges in Canadian Law”, Toronto, ON, Oct. 15, 2018.</p>
+	<p>“Unscrambling the code: Blockchain, virtual currencies and smart contracts”, Charlottetown, PEI, Oct. 17, 2018.</p>
+	<p>“Making it all make sense: Blockchain and lawyering in the 21st Century” (panel), Charlottetown, PEI, Oct. 17, 2018.</p>
+	<p>“Blockchain and Privacy”, Ottawa, ON, Oct. 20, 2018.</p>
+	<p>“Blockchain and the Law: A Canadian Perspective”, Williamsburg, VA, Oct. 27, 2018.</p>
+	
 	
 	<h4>Presentations</h4>
 
-	<p>“Les lanceurs d’alerte / The Whistleblowers”, Workshop, University of Ottawa, Ottawa ON, May 9th, 2017.
+	<p>States in the Age of Blockchain, Tecnológico de Monterrey, Puebla, MX, Aug. 20, 2018.</p>
+	<p>Internet Intermediaries’ Liability: A Comparative Overview, International School of Law and Technology, ITS Rio, São Paulo, Brazil, 2018.</p>
+	<p>Cambridge Analytica and Beyond (Closing Panel/Lead Discussant), International School of Law and Technology, ITS Rio/Université de Montréal, Rio de Janeiro, Brazil, 2018.</p>
+	<p>Internet Intermediaries’ Liability: A Comparative Overview, International School of Law and Technology, ITS Rio/Université de Montréal, Rio de Janeiro, Brazil, 2018.</p>
+	<p>Blockchain and Justice Technology. Current and Future Prospect for Justice and Legal Technology, Bologna, Italie, 2018.</p>
+	<p>La cybersécurité et les jeunes – Aspects juridiques. La cybersécurité et les jeunes, Semaine des diplômés, Ottawa, Canada, 2018.</p>
+	<p>Cryptocurrencies Facing Up Canadian Law. New Directions in Law and Tech, Ottawa, Canada, 2018.</p>
+	<p>Whistleblowing in Canada. Atelier CRSH Imaginer l’avenir du Canada / SSHRC Imagining Canada’s Future Workshop, Ottawa, Canada, 2017.</p>
+	<p>Le besoin de connaissances sur la protection des lanceurs d'alerte au Canada. Atelier CRSH Imaginer l’avenir du Canada / SSHRC Imagining Canada’s Future Workshop, Ottawa, Canada, 2017.</p>
 
-	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa ON, May 8th, 2017.
-	
-	<p>“Droit des marques et liberté d'expression”, Keynote, Regroupement des praticiens en droit des marques de commerce, Montréal QC, May 4th, 2017.
-	
-	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 1, 2017.
 
-	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC, March 17th 2017.
+	<p>“Les lanceurs d’alerte / The Whistleblowers”, Workshop, University of Ottawa, Ottawa ON, May 9th, 2017.</p>
+
+	<p>“Disrupting the Myth of a Canadian Paradigm Shift”, National Symposium, University of Ottawa, Ottawa ON, May 8th, 2017.</p>
+	
+	<p>“Droit des marques et liberté d'expression”, Keynote, Regroupement des praticiens en droit des marques de commerce, Montréal QC, May 4th, 2017.</p>
+	
+	<p>“Biens communs... l'histoire d'un oxymore”, International Symposium, Université de Montréal, Montréal QC, May 1, 2017.</p>
+
+	<p>“Les droits intellectuels comme des biens intellectuels en droit civil et common law », Université Laval, Québec QC, March 17th 2017.</p>
 		
 	<p>“Les nouvelles frontières de la notion de marque”, International Symposium, G3 / Université de Montréal, Montréal, QC, December 2<sup>nd</sup> 2016. <a href="#" class="link-label" target="_blank">Slides</a></p>
 	
