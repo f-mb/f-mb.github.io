@@ -1,12 +1,12 @@
 ---
-layout: default
-title: About Prof. Florian Martin-Bariteau
-lang: en
-permalink: /about/
+layout: default_fr
+title: À propos du Pr. Florian Martin-Bariteau
+lang: fr
+permalink: /a-propos/
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About me</h1>
+	<h1 class="pageTitle">À propos</h1>
 
 	<img src="{{ '/assets/img/fmb_web.jpg' | prepend: site.baseurl }}" alt="" class="imgfloatleftx3">
 
@@ -33,28 +33,4 @@ permalink: /about/
 				<p>Since 1998, I have designed web site, communication supports, campaigns, identities and managed public relations. Mostly for non-for-profit organizations, but my references also include educational organizations, law firms, museums and small corporations. Most of my work has been released under the signature <a href="http://ilix.net">ILIX</a>. Some of my works has been featured on local and national press, radio and tv.</p>
 				<p>I currently live in Ottawa ON.</p>
 
-	<p id="affiliations"><strong>Current affiliations</strong></p>
-	<ul>
-		<em>Primary affiliations</em>
-		<li>Assistant Professor, <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a>, University of Ottawa </li>
-		<li>Director, <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a>, University of Ottawa.</li>
-		<br/>
-		<em>Other affiliations</em>
-		<li>Affiliate Faculty, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
-		<li>Co-Investigator</li>, <a href="https://www.serene-risc.ca/en/">SERENE RISC</a>.
-		<li>Collaborator, <a href="http://www.crdp.umontreal.ca/" target="_blank">Centre de recherche en droit public</a>, Université de Montréal</li>
-		<li>Collaborator, <a href="http://www.rdcg.ca/en/" target="_blank">Regroupement Droit, changements et gouvernance</a> (FRQSC, Université de Montréal, McGill University and Université Laval)</li>
-		<br/>
-		<strong>Formerly</strong>
-		<li>Lecturer, Faculty of Law, Université de Montréal</li>
-		<li>Lecturer, Faculty of Computer Sciences and Operational Research, Université de Montréal</li>
-		<li>Internet Policy Global Fellow, <a href="http://www.itsrio.org" target="_blank">Instituto de Tecnologia e Sociedade do Rio de Janeiro</a>, Brazil (2015)</li>
-		<li>Young Scholar, <a href="http://www.chairejlb.ca" target="_blank">Chaire Jean-Louis-Beaudouin</a>, Université de Montréal, Canada</li>
-		<li>Doctoral researcher, <a href="http://www.chairelrwilson.ca/en/">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>, Université de Montréal</li>
-		<li>Doctoral researcher, <a href="http://www.crdp.umontreal.ca/" target="_blank">Centre de recherche en droit public</a>, Université de Montréal</li>
-		<li>Doctoral researcher, <a href="http://www.rdcg.ca/en/" target="_blank">Regroupement Droit, changements et gouvernance</a> (FRQSC, Université de Montréal, McGill University and Université Laval)</li>
-		<li>Graduate Student, <a href="http://www.serene-risc.ca/en/" target="_blank">SERENE-RISC</a> (Smart Cybersecurity Network)</li>
-		<li>Doctoral researcher, G3 Propriété intellectuelle et responsabilité civile, <a href="http://www.g3univ.org/" target="_blank">G3</a> (Université de Montréal, Université Libre de Bruxelles, Université de Genève)</li>
-
-	</ul>
 </div>

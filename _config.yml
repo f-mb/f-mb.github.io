@@ -21,8 +21,18 @@ navigation:
  - title: Contact
    url: /contact/
 
+navigation_fr:
+ - title: À propos
+   url: /a-propos/
+ - title: Publications
+   url: /publications/
+ - title: Présentations
+   url: /presentations/
+ - title: Contact
+   url: /coordonnees/
+
 social:
    twitter: f_mb
-   email: florian@martinbariteau.org
+   email: fmb@uOttawa.ca
 
 google_analytics: "UA-10030663-7"
