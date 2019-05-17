@@ -6,9 +6,9 @@ permalink: /coordonnees/
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contactez-nous</h1>
+  <h1 class="pageTitle">Coordonnées</h1>
 
-  <p class="intro">N'hésitez pas à me contacter pour toute question ou discussion.</p>
+  <p class="intro">N'hésitez pas à me contacter pour toute question.</p>
 
   <div class="colx2">
 

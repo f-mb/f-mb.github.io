@@ -25,12 +25,6 @@ navigation:
    url: /contact/
 
 navigation_fr:
- - title: À propos
-   url: /a-propos/
- - title: Publications
-   url: /publications/
- - title: Présentations
-   url: /presentations/
  - title: Contact
    url: /coordonnees/
  - title: "› English"
