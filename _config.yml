@@ -23,7 +23,7 @@ navigation:
    url: /talks/
  - title: Contact
    url: /contact/
- - title: { Français }
+ - title: "| Français"
    url: /accueil/
 
 navigation_fr:
@@ -35,7 +35,7 @@ navigation_fr:
    url: /presentations/
  - title: Contact
    url: /coordonnees/
- - title: { English }
+ - title: "| English"
    url: /home/
 
 social:
