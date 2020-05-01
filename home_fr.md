@@ -12,7 +12,7 @@ permalink: /accueil/
   	<!--<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}"/>-->
 
   	<h4>Un développeur et créatif<br/>devenu professeur de droit.</h4>
-	<p>Je suis professeur adjoint à la <a href="http://commonlaw.uottawa.ca" target="_blank">Faculté de droit, Section de common law</a> et directeur du <a href="http://droittech.uottawa.ca" target="_blank">Centre de recherche en droit, technologie et société</a> de l'Université d'Ottawa.</p>
+	<p>Je suis professeur agrégé à la <a href="http://commonlaw.uottawa.ca" target="_blank">Faculté de droit, Section de common law</a> et directeur du <a href="http://droittech.uottawa.ca" target="_blank">Centre de recherche en droit, technologie et société</a> de l'Université d'Ottawa.</p>
 
   </div>
 

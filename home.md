@@ -12,7 +12,7 @@ permalink: /home/
   	<!--<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}"/>-->
 
   	<h4>A technologist and creative <br/>turned legal scholar.</h4>
-	<p>I am an Assistant Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a> and Director of the <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a> at the University of Ottawa.</p>
+	<p>I am an Associate Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca" target="_blank">Faculty of Law, Common Law Section</a> and Director of the <a href="http://techlaw.uottawa.ca" target="_blank">Centre for Law, Technology and Society</a> at the University of Ottawa.</p>
 	<!--<p>I am a LL.D. candidate, and a Lecturer at the Faculty of Law and at the Department of Computer Sciences (DIRO), at Université de Montréal. I am also Coordinator of <a href="https://openum.ca/en/" target="_blank">OpenUM</a> and the <a href="http://www.chairelrwilson.ca/en/" target="_blank">L.R. Wilson Chair in Information Technology and Electronic Commerce Law</a>.</p>
 	<p>I'm currently an Internet Policy Global Fellow at the <a href="http://www.itsrio.org" target="_blank">Institute of Technology and Society at Rio de Janeiro (Brazil)</a>.</p>-->
 
