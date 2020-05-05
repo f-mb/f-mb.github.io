@@ -1,6 +1,6 @@
 ---
 layout: default_fr
-title: Florian Martin-Bariteau | Droit + Technologie + Société
+title: Florian Martin-Bariteau  |  Droit + Technologie + Société
 lang: fr
 permalink: /accueil/
 ---

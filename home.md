@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Florian Martin-Bariteau | Law + Technology + Society
+title: Florian Martin-Bariteau  |  Law + Technology + Society
 lang: en
 permalink: /home/
 ---
