@@ -2,7 +2,7 @@
 layout: default_fr
 title: À propos du Pr. Florian Martin-Bariteau
 lang: fr
-permalink: /a-propos/
+permalink: /____a-propos/
 ---
 
 <div class="post">

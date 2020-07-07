@@ -2,7 +2,7 @@
 layout: default
 title: About Prof. Florian Martin-Bariteau
 lang: en
-permalink: /about/
+permalink: /____about/
 ---
 
 <div class="post">

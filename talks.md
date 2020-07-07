@@ -2,7 +2,7 @@
 layout: default
 title: Talks by Florian Martin-Bariteau
 lang: en
-permalink: /talks/
+permalink: /____talks/
 ---
 
 <div class="post">
