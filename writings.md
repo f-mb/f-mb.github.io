@@ -2,7 +2,7 @@
 layout: default
 title: Writings by Florian Martin-Bariteau
 lang: en
-permalink: /writings/
+permalink: /____writings/
 ---
 
 <div class="post">
