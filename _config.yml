@@ -16,13 +16,13 @@ paginate: 5
 
 navigation:
  - title: About
-  url: /biography/
+   url: /biography/
  - title: Contact
    url: /contact/
 
 navigation_fr:
  - title: À propos
-    url: /biographie/
+   url: /biographie/
  - title: Contact
    url: /coordonnees/
  - title: "› English"
