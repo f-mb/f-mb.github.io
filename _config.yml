@@ -19,6 +19,8 @@ navigation:
    url: /biography/
  - title: Contact
    url: /contact/
+ - title: "› French"
+   url: /accueil/
 
 navigation_fr:
  - title: À propos
