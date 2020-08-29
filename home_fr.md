@@ -12,7 +12,7 @@ permalink: /accueil/
   	<!--<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}"/>-->
 
   	<h4>Un développeur et créatif<br/>devenu professeur de droit.</h4>
-	<p>Je suis titulaire de la Chaire de recherche de l'Université en technologie et société, professeur agrégé  au sein de la <a href="http://commonlaw.uottawa.ca/fr/personnes/martin-bariteau-florian">Faculté de droit, Section de common law</a> et directeur du <a href="https://droittech.uottawa.ca/personnes/martin-bariteau-florian">Centre de recherche en droit, technologie et société</a> de l’Université d’Ottawa.</p>
+	<p>Florian Martin-Bariteau est titulaire de la Chaire de recherche de l'Université en technologie et société, professeur agrégé  au sein de la <a href="http://commonlaw.uottawa.ca/fr/personnes/martin-bariteau-florian">Faculté de droit, Section de common law</a>, directeur du <a href="https://droittech.uottawa.ca/personnes/martin-bariteau-florian">Centre de recherche en droit, technologie et société</a> et directeur de l'<a href="http://www.iasociete.ca" target="_blank">Initiative IA + Société</a> à l’Université d’Ottawa.</p>
   </div>
 
   <div class="colx2">

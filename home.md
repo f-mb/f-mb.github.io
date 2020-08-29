@@ -12,7 +12,7 @@ permalink: /home/
   	<!--<img src="{{ '/assets/img/fmb_chill.jpg' | prepend: site.baseurl }}"/>-->
 
   	<h4>A technologist and creative <br/>turned legal scholar.</h4>
-	<p>University Research Chair in Technology and Society, an Associate Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca/en/people/martin-bariteau-florian">Faculty of Law, Common Law Section</a> and the Director of the <a href="http://techlaw.uottawa.ca/people/martin-bariteau-florian">Centre for Law, Technology and Society</a> at the University of Ottawa.</p>
+	<p>Dr. Florian Martin-Bariteau is the University Research Chair in Technology and Society, an Associate Professor of Law and Technology at the <a href="http://commonlaw.uottawa.ca/en/people/martin-bariteau-florian">Faculty of Law, Common Law Section</a>, the Director of the <a href="http://techlaw.uottawa.ca/people/martin-bariteau-florian">Centre for Law, Technology and Society</a> and the Director of the <a href="http://www.aisociety.ca" target="_blank">AI + Society Initiative</a> at the University of Ottawa.</p>
 
   </div>
 
