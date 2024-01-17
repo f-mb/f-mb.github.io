@@ -23,7 +23,7 @@ permalink: /accueil/
 <li>la <a href="https://droittech.uottawa.ca/chaires/cru-technologie-societe" target="_blank">Chaire de recherche de l’Université d'Ottawaen technologie et société</a></li>
     <li>l'<a href="https://droitech.uottawa.ca/iasociete" target="_blank">Initiative IA + Société</a></li>
   <li>le <a href="http://blckchn.ca/" target="_blank">Lab juridique surr les chaines de blocs</a></li>
-  <li>l'initiative <a href="http://quantsoc.org/fr">Quantique &amp; Société</a></li>
+  <li>l'initiative <a href="http://quantsoc.net/fr">Quantique &amp; Société</a></li>
 </ul>
   </div>
 

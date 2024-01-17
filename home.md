@@ -19,12 +19,12 @@ permalink: /home/
 
   <div class="colx2">
    <p><em>This website is being redesigned.</em></p> 
-  <p>In the meantime, you can <a href="https://twitter.com/f_mb">follow @f_mb on X</a>, or on <a href="http://linkedin.com/in/fmb">LinkedIn/</a>, and visit</p>
+  <p>In the meantime, you can <a href="https://twitter.com/f_mb">follow @f_mb on X</a>, or on <a href="http://linkedin.com/in/fmb">LinkedIn</a>, and visit:</p>
   <ul>
 <li><a href="https://techlaw.uottawa.ca/chairs/urc-technology-society" target="_blank">University of Ottawa Research Chair in Technology and Society</a></li>
 <li><a href="https://techlaw.uottawa.ca/aisociety" target="_blank">AI + Society Initiative</a></li>
   <li><a href="http://blckchn.ca/" target="_blank">Blockchain Legal Lab</a></li>
-  <li><a href="http://quantsoc.org">Quantum &amp; Society</a></li>
+  <li><a href="http://quantsoc.net">Quantum &amp; Society</a></li>
 </ul>
 	
   </div>
