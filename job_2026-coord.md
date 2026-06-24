@@ -10,18 +10,12 @@ _Cette offre est [disponible en français](/offres/2026-coord-projets)._
 # Project Coordinator, Chair in Technology and Society
 
 **Job classification:** NR4 - Coordinator, Program and Research Support
-
 **Duration:** One-year contract (with possible renewal)
-
 **Hours:** Full-time (35h/week)
-
 **Start date:** Flexible, as soon as possible
-
 **Job salary range:** \$63,155-\$78,944 (commensurate with experience)
-
 **Unit:** University Research Chair in Technology and Society
-
-**Reports to:** [Dr Florian Martin-Bariteau](https://techlaw.uottawa.ca/people/martin-bariteau-florian)
+**Reports to:** [Dr Florian Martin-Bariteau](https://www.uottawa.ca/research-innovation/centre-law-technology-society/people/martin-bariteau-florian)
 
 ## About the University of Ottawa Chair in Technology and Society
 
