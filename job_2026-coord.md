@@ -2,7 +2,7 @@
 layout: default
 title: Job Opportunity: Project Coordinator, Chair in Technology and Society
 lang: en
-permalink: /jobs/2026-project-coordinator
+permalink: /jobs-2026-project-coordinator
 ---
 
 # Coordonnateur ou Coordonnatrice de projets, Chaire en technologie et société
