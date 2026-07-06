@@ -30,6 +30,12 @@ navigation_fr:
  - title: "› English"
    url: /home/
 
+navigation_bil:
+ - title: "› Accueil"
+   url: /accueil/
+ - title: "› Home"
+   url: /home/
+
 social:
    twitter: f_mb
    email: fmb@uOttawa.ca

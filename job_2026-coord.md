@@ -1,13 +1,12 @@
 ---
-layout: default
-title: Job Opportunity / Project Coordinator, Chair in Technology and Society
-lang: en
-permalink: /jobs/2026-project-coordinator
+layout: default_bil
+title: Opportunité / Opportunity
+permalink: /2026-cts-coord
 ---
 
-_Cette offre est [disponible en français](/offres/2026-coord-projets)._
+_Cette offre est [disponible en français](#fr)._
 
-# Project Coordinator, Chair in Technology and Society
+# <a name="en"></a>Project Coordinator, Chair in Technology and Society
 
 **Job classification:** NR4 - Coordinator, Program and Research Support
 **Duration:** One-year contract (with possible renewal)
@@ -107,7 +106,7 @@ _We thank all applicants for their interest, however, only those under considera
 _Please note the University of Ottawa is unable to sponsor a work permit for this position. Candidates should be a citizen or permanent resident of Canada._
 
 
-# Coordonnateur ou Coordonnatrice de projets, Chaire en technologie et société
+# <a name="fr"></a>Coordonnateur ou Coordonnatrice de projets, Chaire en technologie et société 
 
 **Classification d'emploi :** NR4 - Coordonnateur(trice), soutien aux programmes et à la recherche
 **Durée :** Contrat d'un an, renouvelable
